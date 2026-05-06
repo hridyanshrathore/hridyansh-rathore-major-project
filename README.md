@@ -1,1 +1,2 @@
-# hridyansh-rathore-major-project
+# Disease-prediction-system
+Machine learning project
